@@ -298,7 +298,7 @@
   {
     "name": "broken4k38.png",
     "category": "brokens",
-    "imageFile": "https://github.com/Wayfu-Studio/ImageSource/blob/main/broken4ks/broken4k38.png",
+    "imageFile": "https://raw.githubusercontent.com/Wayfu-Studio/ImageSource/main/broken4ks/broken4k38.png",
     "isBroken": true,
 	"isDownloaded": false,
     "isFav": false
@@ -306,7 +306,7 @@
   {
     "name": "broken4k39.png",
     "category": "brokens",
-    "imageFile": "https://github.com/Wayfu-Studio/ImageSource/blob/main/broken4ks/broken4k39.png",
+    "imageFile": "https://raw.githubusercontent.com/Wayfu-Studio/ImageSource/main/broken4ks/broken4k39.png",
     "isBroken": true,
 	"isDownloaded": false,
     "isFav": false
